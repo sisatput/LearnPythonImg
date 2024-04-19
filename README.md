@@ -1,2 +1,2 @@
 # LearnPythonImg
-Stored Inages for LearnPython
+Stored Images for LearnPython
